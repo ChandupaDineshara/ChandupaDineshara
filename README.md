@@ -16,9 +16,9 @@ I'm an Electronic and Telecommunication Engineering undergraduate at the Univers
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Altium_Logo.svg/512px-Altium_Logo.svg.png" height="40" alt="Altium Designer"/>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/altium.svg" height="40" alt="Altium Designer"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/STM32CubeIDE_Logo.png" height="40" alt="STM32CubeIDE" />
-  <img src="https://avatars.githubusercontent.com/u/9737369?s=200&v=4" height="40" alt="PlatformIO" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/SolidWorks_logo.svg/512px-SolidWorks_logo.svg.png" height="40" alt="SolidWorks"/>
+  <img src="https://raw.githubusercontent.com/ChandupaDineshara/assets/main/stm32cubeide.png" height="40" alt="STM32CubeIDE"/>
+  <img src="https://raw.githubusercontent.com/ChandupaDineshara/assets/main/platformio.png" height="40" alt="PlatformIO"/>
+  <img src="https://raw.githubusercontent.com/ChandupaDineshara/assets/main/solidworks.png" height="40" alt="SolidWorks"/>
 </p>
