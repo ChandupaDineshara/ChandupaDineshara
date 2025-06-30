@@ -4,7 +4,7 @@
   I'm an Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa, Sri Lanka.
 </h3>
 
-- ⚙️ I'm passionate about **Robotics**, **Digital Systems Design**, **VLSI Design**, **PCB Design**, **Enclosure Design**, and **Electronic Product Design**  
+- ⚙️ I'm passionate about **Robotics**, **Digital Systems Design**, **VLSI Design**, **PCB Design** and **Electronic Product Design**  
 - 📫 How to reach me: [chandupadineshara@gmail.com](mailto:chandupadineshara@gmail.com)
 
 ---
